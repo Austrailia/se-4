@@ -1,0 +1,33 @@
+<html>
+    <body>
+        <form>
+            <label>First name:</label>
+            <input type="text">
+            <br>
+            <label>Last name:</label>
+            <input type="text">
+            <br>
+            <label>Email:</label>
+            <input type="text">
+            <br>
+            <label>Password:</label>
+            <input type="text">
+            <br>
+            <button>Submit</button>
+
+        </form>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ov9asN8QK5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IB_saq2yTnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <iframe src="https://www.google.com/maps/embed?pb=!4v1622936986490!6m8!1m7!1sqeLpJJeEyUiHOjEQR7iX4Q!2m2!1d42.48824285185096!2d-71.175899685511!3f135.73884725216197!4f10.750275870266819!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </body>
+</html>
+
+<a href="playlist.html"></a>
+
+https://tailwindcss.com/
+
+https://www.w3schools.com/css/default.asp
+
+
